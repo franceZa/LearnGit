@@ -1,5 +1,3 @@
 # LearnGit
 
-# C
-
-# A
+# B
